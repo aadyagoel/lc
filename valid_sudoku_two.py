@@ -1,4 +1,5 @@
 #neetcode solution
+#using a hash set
 class Solution(object):
     def isValidSudoku(self, board):
         """
